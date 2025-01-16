@@ -3,4 +3,3 @@
 -  I’m currently learning: Lua, Python, GDScript, Java, and C++.
 -  I’m looking to collaborate on: N/A
 -  How to reach me: Twitter, Discord, and Github
--  Currently developing a FNAF Fan Game called 'Lucid'
